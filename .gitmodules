@@ -1,0 +1,12 @@
+[submodule "dependencies/tiny-cuda-nn"]
+	path = dependencies/tiny-cuda-nn
+	url = https://github.com/NVlabs/tiny-cuda-nn/tree/9900ba6
+[submodule "dependencies/eigen"]
+	path = dependencies/eigen
+	url = https://github.com/Tom94/eigen/tree/3a8eda017
+[submodule "dependencies/pybind11"]
+	path = dependencies/pybind11
+	url = https://github.com/Tom94/pybind11/tree/40ea63e9
+[submodule "dependencies/tinylogger"]
+	path = dependencies/tinylogger
+	url = https://github.com/Tom94/tinylogger/tree/9b7a92f
